@@ -6,5 +6,5 @@
 #include <iostream> //Pre-porcessor directive to include <iostream> standard library 
 
 int main(){
-  std::out << "High there!"
+  std::out << "High there!";
 }
